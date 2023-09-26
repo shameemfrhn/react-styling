@@ -1,0 +1,20 @@
+/* StyledComponent.css */
+.styled-component {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .description {
+    font-size: 16px;
+    color: #666;
+  }
+  
